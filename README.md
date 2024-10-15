@@ -3,6 +3,11 @@
 My name is Philip Østli and I am a senior DevOps engineer working as a consultant at Redpill Linpro @ Oslo, Norway. I'm apassionate about coding and is currently working on Android apps using Kotlin, Flutter, React Native and OpenShift. I have several years behind me working with Microsoft .NET tech stack including MSSQL. I also have interests in smart home technology and have contributed on a few apps for Athom Homey, both professionally and in private.
 I strictly follow best practices concidering security first, and readability second, which also correlates with my one true religion which is Free Open Source Software!
 
+## Product owner
+[Homely Alarm app for Homey Smarthome](https://homey.app/en-us/app/no.homely/Homely/)  
+[Uyuni app for Homey smarthome](https://homey.app/no-no/app/com.uyunilighting/Uyuni/)  
+[Docker image for Web redirect (open Androidlinks in e-mails)](https://hub.docker.com/r/philipostli/docker-web-redirect)  
+
 ## Channels
 [<img src="linkedin.svg">](http://www.linkedin.com/in/philipostli)
 [<img src="instagram.svg">](https://www.instagram.com/philipostli/)
