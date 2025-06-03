@@ -1,12 +1,15 @@
 ## Hello there 👋
 
-My name is Philip Østli and I am a senior DevOps engineer working as a consultant at Redpill Linpro @ Oslo, Norway. I'm apassionate about coding and is currently working on Android apps using Kotlin, Flutter, React Native and OpenShift. I have several years behind me working with Microsoft .NET tech stack including MSSQL. I also have interests in smart home technology and have contributed on a few apps for Athom Homey, both professionally and in private.
-I strictly follow best practices concidering security first, and readability second, which also correlates with my one true religion which is Free Open Source Software!
+My name is Philip Østli and I am a senior DevOps engineer working as a consultant at Redpill Linpro @ Oslo, Norway. I'm apassionate about coding and is currently working on Python and React webapps in Azure Kubernetes Services. I have previously created [Android apps](https://play.google.com/store/apps/details?id=com.loggbokapp&pcampaignid=web_share) using Kotlin, Flutter, React Native and OpenShift. I have several years behind me working with Microsoft .NET tech stack including C#, MSSQL, Xamarin and Power BI. I also have interests in smart home technology and have contributed on a few apps for Athom Homey, both professionally and in private.
+I thoroughly follow coding best practices concidering security first, and readability/docuemntation second, which also correlates with my one true religion which is Free Open Source Software!
 
 ## Product owner
 [Homely Alarm app for Homey Smarthome](https://homey.app/en-us/app/no.homely/Homely/)  
 [Uyuni app for Homey smarthome](https://homey.app/no-no/app/com.uyunilighting/Uyuni/)  
 [Docker image for Web redirect (open Androidlinks in e-mails)](https://hub.docker.com/r/philipostli/docker-web-redirect)  
+
+## Contributions
+[Zaptec charger app for Homey](https://homey.app/no-no/app/com.zaptec/Zaptec/)
 
 ## Channels
 [<img src="linkedin.svg">](http://www.linkedin.com/in/philipostli)
