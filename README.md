@@ -7,6 +7,7 @@ I thoroughly follow coding best practices concidering security first, and readab
 [Homely Alarm app for Homey Smarthome](https://homey.app/en-us/app/no.homely/Homely/)  
 [Uyuni app for Homey smarthome](https://homey.app/no-no/app/com.uyunilighting/Uyuni/)  
 [Docker image for Web redirect (open Androidlinks in e-mails)](https://hub.docker.com/r/philipostli/docker-web-redirect)  
+[Swegon Casa app for Homey](https://homey.app/no-no/app/com.swegon/Swegon)
 
 ## Contributions
 [Zaptec charger app for Homey](https://homey.app/no-no/app/com.zaptec/Zaptec/)
