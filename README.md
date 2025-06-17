@@ -4,9 +4,9 @@ My name is Philip Østli and I am a senior DevOps engineer working as a consulta
 I thoroughly follow coding best practices concidering security first, and readability/docuemntation second, which also correlates with my one true religion which is Free Open Source Software!
 
 ## Product owner
-[Homely Alarm app for Homey Smarthome](https://homey.app/en-us/app/no.homely/Homely/)  (official)
+[Homely Alarm app for Homey Smarthome](https://homey.app/en-us/app/no.homely/Homely/)  (official)  
 [Uyuni app for Homey smarthome](https://homey.app/no-no/app/com.uyunilighting/Uyuni/)  
-[Swegon Casa app for Homey](https://homey.app/no-no/app/com.swegon/Swegon)
+[Swegon Casa app for Homey](https://homey.app/no-no/app/com.swegon/Swegon)  
 [Docker image for Web redirect (open Androidlinks in e-mails)](https://hub.docker.com/r/philipostli/docker-web-redirect)  
 
 ## Contributions
