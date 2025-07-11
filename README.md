@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 My name is Philip Østli and I am a senior DevOps engineer working as a consultant at Redpill Linpro @ Oslo, Norway. I'm apassionate about coding and is currently working on Python and React webapps in Azure Kubernetes Services. I have previously created [Android apps](https://play.google.com/store/apps/details?id=com.loggbokapp&pcampaignid=web_share) using Kotlin, Flutter, React Native and OpenShift. I have several years behind me working with Microsoft .NET tech stack including C#, MSSQL, Xamarin and Power BI. I also have interests in smart home technology and have contributed on a few apps for Athom Homey, both professionally and in private.
-I thoroughly follow coding best practices concidering security first, and readability/docuemntation second, which also correlates with my one true religion which is Free Open Source Software!
+I thoroughly follow coding best practices concidering security first, and readability/documentation second, which also correlates with my one true religion which is Free Open Source Software!
 
 ## Product owner
 [Homely Alarm app for Homey Smarthome](https://homey.app/en-us/app/no.homely/Homely/)  (official)  
@@ -35,10 +35,11 @@ I thoroughly follow coding best practices concidering security first, and readab
 ![image](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![image](https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white)
 ![image](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
-![image](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![image](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![image](https://img.shields.io/badge/datagrip-000000.svg?style=for-the-badge&logo=datagrip&logoColor=white)
+![image](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![image](https://img.shields.io/badge/-Wear%20OS-4285F4?style=for-the-badge&logo=wear-os&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
