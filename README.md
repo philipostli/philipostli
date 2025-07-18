@@ -11,7 +11,9 @@ I thoroughly follow coding best practices concidering security first, and readab
 
 ## Contributions
 [Zaptec charger app for Homey](https://homey.app/no-no/app/com.zaptec/Zaptec/) (most of the app)  
-[Samsung SmartThings app for Homey](https://homey.app/no-no/app/com.smartthings/Samsung-SmartThings/) (the washer status widget)
+[Samsung SmartThings app for Homey](https://homey.app/no-no/app/com.smartthings/Samsung-SmartThings/) (the washer status widget)  
+[Mill heating app for Homey](https://homey.app/no-no/app/com.Coderax.MillHeating/Mill-Heating/)  
+[Plex app for Homey](https://homey.app/no-no/app/tv.plex/Plex/) (official)  
 
 ## Channels
 [<img src="linkedin.svg">](http://www.linkedin.com/in/philipostli)
