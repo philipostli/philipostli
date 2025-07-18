@@ -14,6 +14,7 @@ I thoroughly follow coding best practices concidering security first, and readab
 [Samsung SmartThings app for Homey](https://homey.app/no-no/app/com.smartthings/Samsung-SmartThings/) (the washer status widget)  
 [Mill heating app for Homey](https://homey.app/no-no/app/com.Coderax.MillHeating/Mill-Heating/)  
 [Plex app for Homey](https://homey.app/no-no/app/tv.plex/Plex/) (official)  
+[Switchbot app for Homey](https://homey.app/no-no/app/com.switchbot/SwitchBot/) (official)  
 
 ## Channels
 [<img src="linkedin.svg">](http://www.linkedin.com/in/philipostli)
