@@ -11,6 +11,7 @@ I thoroughly follow coding best practices concidering security first, and readab
 [Docker image for Web redirect (open Androidlinks in e-mails)](https://hub.docker.com/r/philipostli/docker-web-redirect)  
 
 ## Contributions
+[Homey Cli](https://github.com/athombv/node-homey/pull/465)  
 [Zaptec charger app for Homey](https://homey.app/no-no/app/com.zaptec/Zaptec/) (most of the app)  
 [Samsung SmartThings app for Homey](https://homey.app/no-no/app/com.smartthings/Samsung-SmartThings/) (the washer status widget)  
 [Mill heating app for Homey](https://homey.app/no-no/app/com.Coderax.MillHeating/Mill-Heating/)  
