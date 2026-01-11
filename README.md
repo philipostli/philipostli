@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-My name is Philip Østli and I am a senior DevOps engineer working as a consultant at Redpill Linpro @ Oslo, Norway. I'm apassionate about coding and is currently working on Python and React webapps in Azure Kubernetes Services. I have previously created [Android apps](https://play.google.com/store/apps/details?id=com.loggbokapp&pcampaignid=web_share) using Kotlin, Flutter, React Native and OpenShift. I have several years behind me working with Microsoft .NET tech stack including C#, MSSQL, Xamarin and Power BI. I also have interests in smart home technology and have contributed on a few apps for Athom Homey, both professionally and in private.
+My name is Philip Østli and I am a senior DevOps engineer working as a consultant in Vivende @ Oslo, Norway. I'm apassionate about coding and is currently working on Python and React webapps in Azure Kubernetes Services. I have experience working with LLMs through Perplexity and GPT-4o to streamline sales processes and identify relevant customers using Google News API. I have previously created [Android apps](https://play.google.com/store/apps/details?id=com.loggbokapp&pcampaignid=web_share) using Kotlin, Flutter, React Native running in OpenShift. I have also developed a Wear OS app privately for viewing train departures. I have several years behind me working with Microsoft .NET tech stack including C#, MSSQL, Xamarin and Power BI. I also have interests in smart home technology and have contributed on a few apps for Athom Homey, both professionally and in private.
 I thoroughly follow coding best practices concidering security first, and readability/documentation second, which also correlates with my one true religion which is Free Open Source Software!
 
 ## Product owner
@@ -9,6 +9,7 @@ I thoroughly follow coding best practices concidering security first, and readab
 [Swegon Casa app for Homey](https://homey.app/no-no/app/com.swegon/Swegon)  
 [MinRenovasjon app for Homey](https://homey.app/no-no/app/no.norkart.renovasjon/Min-Renovasjon)  
 [Docker image for Web redirect (open Androidlinks in e-mails)](https://hub.docker.com/r/philipostli/docker-web-redirect)  
+[Togavganger app for Wear OS](https://github.com/philipostli/no.togavganger)  
 
 ## Contributions
 [Homey Cli](https://github.com/athombv/node-homey/pull/461) ([x2](https://github.com/athombv/node-homey/pull/465))  
