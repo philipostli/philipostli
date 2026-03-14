@@ -36,12 +36,12 @@ I'm also passionate about **smart home technology** and have contributed to seve
 
 | Project | Description | Users | Status |
 |---------|-------------|-------|--------|
-| [🏠 Homely Alarm](https://homey.app/no-no/app/no.homely/Homely/) | Homey Smarthome app | 1262+ | ✅ Official |
-| [💡 Uyuni](https://homey.app/no-no/app/com.uyunilighting/Uyuni/) | Homey smarthome app | 297+ | 🚀 Active |
-| [🗑️ MinRenovasjon](https://homey.app/no-no/app/no.norkart.renovasjon/Min-Renovasjon) | Homey app | 360+ | 🚀 Active |
-| [🏢 Swegon Casa](https://homey.app/no-no/app/com.swegon/Swegon) | Homey app | 54+ | 🚀 Active |
+| [🏠 Homely Alarm](https://homey.app/no-no/app/no.homely/Homely/) | Homey Smarthome app | 1304+ | ✅ Official |
+| [💡 Uyuni](https://homey.app/no-no/app/com.uyunilighting/Uyuni/) | Homey smarthome app | 316+ | 🚀 Active |
+| [🗑️ MinRenovasjon](https://homey.app/no-no/app/no.norkart.renovasjon/Min-Renovasjon) | Homey app | 431+ | 🚀 Active |
+| [🏢 Swegon Casa](https://homey.app/no-no/app/com.swegon/Swegon) | Homey app | 62+ | 🚀 Active |
 | [🐳 Docker Web Redirect](https://hub.docker.com/r/philipostli/docker-web-redirect) | Open Android links in emails | - | 🚀 Active |
-| [🚂 Togavganger](https://github.com/philipostli/no.togavganger) | Wear OS train departures app | - | 🔨 In Development |
+| [🚂 Togavganger](https://www.togavganger.no/) | Wear OS train departures app | - | 🔒 Closed test |
 
 </div>  
 
