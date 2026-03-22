@@ -36,13 +36,13 @@ I'm also passionate about **smart home technology** and have contributed to seve
 
 | Project | Description | Users | Status |
 |---------|-------------|-------|--------|
-| [🏠 Homely Alarm](https://homey.app/no-no/app/no.homely/Homely/) | Homey Smarthome app | 1304+ | ✅ Official |
-| [💡 Uyuni](https://homey.app/no-no/app/com.uyunilighting/Uyuni/) | Homey smarthome app | 316+ | 🚀 Active |
-| [🗑️ MinRenovasjon](https://homey.app/no-no/app/no.norkart.renovasjon/Min-Renovasjon) | Homey app | 431+ | 🚀 Active |
-| [🏢 Swegon Casa](https://homey.app/no-no/app/com.swegon/Swegon) | Homey app | 62+ | 🚀 Active |
-| [🌱 Arteco](https://homey.app/no-no/app/com.arteco/Arteco) | Homey app (soil sensor) · [GitHub](https://github.com/philipostli/com.arteco) | - | 🚀 Active |
-| [🐳 Docker Web Redirect](https://hub.docker.com/r/philipostli/docker-web-redirect) | Open Android links in emails | - | 🚀 Active |
-| [🚂 Togavganger](https://www.togavganger.no/) | Wear OS train departures app | - | 🔒 [Closed test](https://www.togavganger.no/beta) |
+| [🏠 Homely Alarm](https://homey.app/no-no/app/no.homely/Homely/) | Homey app | 1304+ | ✅ Official |
+| [💡 Uyuni](https://homey.app/no-no/app/com.uyunilighting/Uyuni/) | Homey app · [GitHub](https://github.com/philipostli/com.uyunilighting) | 316+ | 🚀 Active |
+| [🗑️ MinRenovasjon](https://homey.app/no-no/app/no.norkart.renovasjon/Min-Renovasjon) | Homey app · [GitHub](https://github.com/philipostli/no.norkart.renovasjon) | 431+ | 🚀 Active |
+| [🏢 Swegon Casa](https://homey.app/no-no/app/com.swegon/Swegon) | Homey app · [GitHub](https://github.com/philipostli/com.swegon) | 62+ | 🚀 Active |
+| [🌱 Arteco](https://homey.app/no-no/app/com.arteco/Arteco) | Homey app · [GitHub](https://github.com/philipostli/com.arteco) | - | 🚀 Active |
+| [🐳 Docker Web Redirect](https://hub.docker.com/r/philipostli/docker-web-redirect) | Open Android links in emails · [GitHub](https://github.com/philipostli/docker-web-redirect) | - | 🚀 Active |
+| [🚂 Togavganger](https://www.togavganger.no/) | Wear OS train departures app · [GitHub](https://github.com/philipostli/no.togavganger) | - | 🔒 [Closed test](https://www.togavganger.no/beta) |
 
 </div>  
 
