@@ -40,6 +40,7 @@ I'm also passionate about **smart home technology** and have contributed to seve
 | [💡 Uyuni](https://homey.app/no-no/app/com.uyunilighting/Uyuni/) | Homey smarthome app | 316+ | 🚀 Active |
 | [🗑️ MinRenovasjon](https://homey.app/no-no/app/no.norkart.renovasjon/Min-Renovasjon) | Homey app | 431+ | 🚀 Active |
 | [🏢 Swegon Casa](https://homey.app/no-no/app/com.swegon/Swegon) | Homey app | 62+ | 🚀 Active |
+| [🌱 Arteco](https://homey.app/no-no/app/com.arteco/Arteco) | Homey app (soil sensor) · [GitHub](https://github.com/philipostli/com.arteco) | - | 🚀 Active |
 | [🐳 Docker Web Redirect](https://hub.docker.com/r/philipostli/docker-web-redirect) | Open Android links in emails | - | 🚀 Active |
 | [🚂 Togavganger](https://www.togavganger.no/) | Wear OS train departures app | - | 🔒 [Closed test](https://www.togavganger.no/beta) |
 
